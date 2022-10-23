@@ -9,7 +9,7 @@ Output Results:
 ___________
 ![2022-10-23_17-14-18](https://user-images.githubusercontent.com/115939486/197395782-b526f02d-9141-4d71-b035-538f9bd95b17.png)
 _____
-![Picture3](https://user-images.githubusercontent.com/115939486/197395800-fdf21208-3bc4-4230-9b0d-ffc64e55d2fd.png)
+![Quantized Wave](https://user-images.githubusercontent.com/115939486/197396026-f68f45bf-3936-41f2-a937-19ea0ce05c94.jpg)
 _______
 ![Picture1](https://user-images.githubusercontent.com/115939486/197395809-ba5e67be-0b8d-4300-b2b4-35af5d8d54c3.png)
 ________
