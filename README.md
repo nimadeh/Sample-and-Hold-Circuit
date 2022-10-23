@@ -9,6 +9,8 @@ Output Results:
 ___________
 ![2022-10-23_17-14-18](https://user-images.githubusercontent.com/115939486/197395782-b526f02d-9141-4d71-b035-538f9bd95b17.png)
 _____
+Output Waves When Amplitude of Input Sinusoidal is 1V (A = 1)
+____
 ![Quantized Wave](https://user-images.githubusercontent.com/115939486/197396026-f68f45bf-3936-41f2-a937-19ea0ce05c94.jpg)
 _______
 ![Quantization specturm](https://user-images.githubusercontent.com/115939486/197396743-49929599-11ff-4122-bb5b-3bda95592b58.jpg)
