@@ -17,3 +17,11 @@ _______
 ____
 ![untitled](https://user-images.githubusercontent.com/115939486/197396704-d89351a8-66b8-4f3c-9e30-bc629d4c679c.jpg)
 _________
+Output Waves When Amplitude of Input Sinusoidal is 0.1V (A = 0.1)
+_____
+![untitled3](https://user-images.githubusercontent.com/115939486/197397044-7239fd4d-ebd3-4f3f-94cb-bd36b8584fc3.jpg)
+________
+![4](https://user-images.githubusercontent.com/115939486/197397046-73d85d66-1feb-4774-9514-a4cc3097ee4b.jpg)
+________
+![6](https://user-images.githubusercontent.com/115939486/197397048-6bb75800-b574-47ab-9a76-8c60378d6ad9.jpg)
+________
