@@ -11,5 +11,5 @@ ___________
 _____
 ![Quantized Wave](https://user-images.githubusercontent.com/115939486/197396026-f68f45bf-3936-41f2-a937-19ea0ce05c94.jpg)
 _______
-![Quantization specturm](https://user-images.githubusercontent.com/115939486/197396578-c0ceac59-fcf8-41b7-b7dc-0fb8975c4a92.jpg)
+![untitled](https://user-images.githubusercontent.com/115939486/197396704-d89351a8-66b8-4f3c-9e30-bc629d4c679c.jpg)
 _________
