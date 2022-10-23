@@ -1,4 +1,4 @@
-# Sample-and-Hold-Circuit
+# Sample-and-Hold-Circuit (Linear S/H)
 Design of a 15-bit Mid-Rise quantizer with a sampling frequency of 100 MHz.
 ______________
 ![2022-10-23_17-05-40](https://user-images.githubusercontent.com/115939486/197395446-39d362e4-1441-4e08-9e0c-2bf433221c60.png)
